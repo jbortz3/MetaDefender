@@ -16,3 +16,7 @@ upload_file samplefile.txt
 The file 'samplefile.txt' will then be uploaded and a multi-scan will be performed by OPSWAT MetaDefender. 
 
 If the results of the file have already been cached, the upload and scan process will be skipped and the previous result will be returned to save server time.
+
+
+
+This project uses Newtonsoft's JSON.NET framework for JSON parsing.
