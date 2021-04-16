@@ -2,7 +2,10 @@
 
 The project was created with Microsoft Visual Studio 2019.
 
-To build the project, simply load OpSwatProject.sln in Visual Studio, and build the solution. 
+To build the project, follow the three steps listed below:
+1. Load OpSwatProject.sln in Visual Studio
+2. Replace the value of apiKey on line 17 of Program.cs with your API access key
+3. Build the solution
 
 
 # Usage Instructions
